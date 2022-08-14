@@ -1,6 +1,11 @@
-### Hi Everyone 👋
+### Hello 👋
 
+I'm a UE3 modder, UE4 Game Developer soon :)
+- I also have some knowledges of Machine Learning, which I'm currently studying.
+- Most languages I have much experience in Python -> UnrealScript -> C++ -> Java
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickBakin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **patrickBakin/patrickBakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
