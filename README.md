@@ -19,6 +19,9 @@ Generated C++ SDK exposing the full UObject tree of *Zedfest*. Lets mod authors 
 ### [ReadyOrNotModLoader](https://github.com/patrickBakin/ReadyOrNotModLoader)
 Loads and spawns Blueprint classes from packaged `.pak` files into a running game instance. Demonstrates pak mounting, asset registry manipulation, and runtime UObject spawning in a shipped UE4 title.
 
+### [UESigBypass](https://github.com/patrickBakin/UESigBypass)
+C# WinForms utility that patches Unreal Engine's pak signature check so user-made `.pak` mods load alongside shipped content. Single-click workflow over the underlying binary patching — turns a manual hex-edit chore into a tool any modder can use.
+
 ---
 
 ## What I Work With
